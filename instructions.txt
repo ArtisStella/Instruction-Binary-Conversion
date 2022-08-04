@@ -1,0 +1,5 @@
+reg1 7
+reg2 3
+add reg2 reg1	 
+sub reg1 reg2
+equal reg2 reg1
